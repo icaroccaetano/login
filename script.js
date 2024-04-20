@@ -3,10 +3,10 @@ function logar () {
     var senha = document.getElementById('password').value;
 
     if(login == "manny" && senha == "maltrata") {
-        alert("Sucesso");
+        alert("Success");
         location.href="home.html";
     } else {
-        alert("Usuário ou senha incorretos");
+        alert("Incorrect username or password. Try again!");
     }
 
 }
