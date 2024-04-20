@@ -16,8 +16,7 @@ If you try another login will appear a message informing the error.
 Entering the correct login, a success message will appear and you will be directed to another page.
 
 ![image](https://github.com/icaroccaetano/login/assets/84483036/31e14097-ba24-4832-ab04-fd9cfd2ffc12)
-![Uploading image.png…]()
-
+![image](https://github.com/icaroccaetano/login/assets/84483036/ce18e4dc-5ed9-4199-b3e7-ac9dba2ef9c2)
 
 # Next steps
  - Interface
