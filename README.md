@@ -1,8 +1,8 @@
-﻿# login
+﻿# Login
 
 Simple design of a login page. I'll add features as I'm learning.
 
-# Using the code 
+## Using the code 
 
 The first page is a login, the only aceptable login is "manny" and the password "maltrata".
 
@@ -18,6 +18,6 @@ Entering the correct login, a success message will appear and you will be direct
 ![image](https://github.com/icaroccaetano/login/assets/84483036/31e14097-ba24-4832-ab04-fd9cfd2ffc12)
 ![image](https://github.com/icaroccaetano/login/assets/84483036/ce18e4dc-5ed9-4199-b3e7-ac9dba2ef9c2)
 
-# Next steps
+## Next steps
  - Interface
  - Create a login and enter
